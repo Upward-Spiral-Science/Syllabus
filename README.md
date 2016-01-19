@@ -22,3 +22,7 @@ Note that this course will largely be project based; each student will be expect
 No courses are formally required, though students will need to write numerical code (in R, Python, or Julia), and make reports using something like LaTeX, knitr, or Jupyter notebooks.  All code and reports will be *open*, that means using *open access data* and *open source code*.
 
 Please come ready to do science! If you don't have questions that you want answered, you can work in small groups, but each student will need to write the code and reports on their own.  There will be no "homeworks".
+
+- *Textbook*: https://leanpub.com/artofdatascience 
+- *TA*: [Greg Kiar](gkiar07@gmail.com)
+- *Grading*: Each week each group will be responsible for handing in an updated report.  Grade will be: A assuming it comes in on time, B if it comes in late, C if it never comes in.  Total grade will be an average over all weeks.
