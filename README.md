@@ -26,3 +26,4 @@ Please come ready to do science! If you don't have questions that you want answe
 - *Textbook*: https://leanpub.com/artofdatascience 
 - *TA*: [Greg Kiar](gkiar07@gmail.com)
 - *Grading*: Each week each group will be responsible for handing in an updated report.  Grade will be: A assuming it comes in on time, B if it comes in late, C if it never comes in.  Total grade will be an average over all weeks.
+- *Pweweqs*: I assume you are comfortable with all the content in https://www.coursera.org/specializations/jhu-data-science
