@@ -5,7 +5,11 @@ This course is a 12 step program for asking and answering scientific questions u
 We will cover the fundamentals of doing data science research, explaining "best practices" for each step, that collectively comprise the upward spiral of science.  These steps include: 
 
 1. asking an interesting question,
+  2. significance
+  3. feasibility
+  4. innovation
 2. determining the degree to which the answer is known, 
+  3. background 
 3. assessing the degree to which (or probability) existing data is sufficient to obtain a satisfactory answer, 
 4. exploring the data set, 
 5. cleaning up the dataset, 
