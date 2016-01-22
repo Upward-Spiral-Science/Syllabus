@@ -12,10 +12,27 @@ We will cover the fundamentals of doing data science research, explaining "best 
   3. background 
 3. assessing the degree to which (or probability) existing data is sufficient to obtain a satisfactory answer, 
 4. exploring the data set, 
+  5. how many feaures? what kind?
+  6. how many samples? are they supposedly "independent?
+  7. how many NaNs/Infs?
+  8. what is the distribution of each feature?
+  9. are the magnitudes given explicitly relavant, or are they some transformation of the property of interest? do we know the nature of that transformation?
+  9. what does a "typical" subject look like?
+  10. are any features correlated?
+  11. are there any outlier subjects?
+  12. do any subjects cluster?
 5. cleaning up the dataset, 
+  6. formatting to be more convenient
+  7. removing outliers/features/subjects that we don't want
 6. formalizing a statistical inquiry, 
+   7. is our inquiry a statistical test or a parameter estimation one (almost always both) 
 7. positing a statistical model which we hope will yield satisfactory answers, 
+  8. restricting the model to a regime of interest, both for the null and alternative hypotheses 
 8. devising a test to assess the answer, 
+  7. stating a hypothesis test, with a null and alternative distribution
+  8. choosing a test statistic
+  9. providing a mechanism for computing the null distribution of the test statistic
+  10. demonstrating via simulation/theory that p-value is small when it should be, and not small when it shouldn't be
 9. building an estimator to assess the model, 
 10. checking the model, 
 11. reporting the results, 
