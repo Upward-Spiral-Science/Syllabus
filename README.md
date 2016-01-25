@@ -1,5 +1,26 @@
-# Syllabus
+# Potentially Useful Info 
 
+- *Textbook*: https://leanpub.com/artofdatascience 
+- *TA*: [Greg Kiar](gkiar07@gmail.com)
+- *Grading*: Each week each group will be responsible for handing in an updated report.  Grade will be: A assuming it comes in on time (and I/TA can reproduce it, as necessary), B if it comes in late (and we can reproduce it), C if it never comes in (or we can't reproduce it).  Total grade will be an average over all weeks.
+- *Pweweqs*: I assume you are comfortable with all the content in https://www.coursera.org/specializations/jhu-data-science
+- *Class Schedule*: Tues & Thurs, 3-4:15pm
+- *Location*: Gilman 132
+- *Organization*: Tuesdays will be lectures, thursdays will be in class group work
+- *Teamwork*: This is a *team project* based course, so pick teams, 3 people is the ideal team size for this class, ihmo
+- *Assignments*: Each week assignments will be due NLT 3:00PM Eastern.  Due means pushed to your group's repo. 
+- *Github*: Each team should have a *public* github repo containing everything.  In the case of private data, we can discuss various otions.
+
+# Class Schedule
+
+- 01/28: 
+  - Welcome
+  - Overview
+  - List of Projects
+  - Pick Teams
+  - Reading Assignment: Ch1 & Ch2 of ADS
+
+# Outline
 
 This course is a 12 step program for asking and answering scientific questions using data science practices.
 We will cover the fundamentals of doing data science research, explaining "best practices" for each step, that collectively comprise the upward spiral of science.  These steps include: 
@@ -51,7 +72,3 @@ No courses are formally required, though students will need to write numerical c
 
 Please come ready to do science! If you don't have questions that you want answered, you can work in small groups, but each student will need to write the code and reports on their own.  There will be no "homeworks".
 
-- *Textbook*: https://leanpub.com/artofdatascience 
-- *TA*: [Greg Kiar](gkiar07@gmail.com)
-- *Grading*: Each week each group will be responsible for handing in an updated report.  Grade will be: A assuming it comes in on time, B if it comes in late, C if it never comes in.  Total grade will be an average over all weeks.
-- *Pweweqs*: I assume you are comfortable with all the content in https://www.coursera.org/specializations/jhu-data-science
