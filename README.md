@@ -10,6 +10,8 @@
 - *Teamwork*: This is a *team project* based course, so pick teams, 3 people is the ideal team size for this class, ihmo
 - *Assignments*: Each week assignments will be due NLT 3:00PM Eastern.  Due means pushed to your group's repo. 
 - *Github*: Each team should have a *public* github repo containing everything.  In the case of private data, we can discuss various otions.
+- *Background*: Comfortable coding in R/Python/Julia, github, Jupyter notebooks or MATLAB publish
+- *Video lectures*: Most *technical* content that will be required is available in these lectures: https://www.coursera.org/specializations/jhu-data-science, in general, i'll expect familiarity with that material
 
 # Class Schedule
 
@@ -33,9 +35,10 @@ We will cover the fundamentals of doing data science research, explaining "best 
   1. determining the degree to which the answer is known, 
   2. assessing the degree to which (or probability) existing data is sufficient to obtain a satisfactory answer, 
   3. what tools currently exist that we could use to find the answer (go deep and old skool)
+3. Basic Math Stats: statistical models 
 2. **experimental design**
   1. which data would yield the most clear answer to the question?
-  2. what is the the minimal sample size needed to obtain a sufficient p-value
+  2. what is the the minimal sample size needed to obtain sufficient "confidence"
   3. what is the least expensive way of obtaining such a dataset (eg, maybe one exists already?)
 4. **"exploratory" data analysis**
   5. how many feaures? what kind?
