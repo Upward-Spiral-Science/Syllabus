@@ -2,14 +2,14 @@
 
 - *Textbook*: https://leanpub.com/artofdatascience 
 - *TA*: [Greg Kiar](mailto:gkiar07@gmail.com)
-- *Grading*: Each week each group will be responsible for handing in an updated report.  Grade will be: A assuming it comes in on time (and I/TA can reproduce it, as necessary), B if it comes in late (and we can reproduce it), C if it never comes in (or we can't reproduce it).  Total grade will be an average over all weeks.
+- *Grading*: Each week each group will be responsible for handing in an updated report.  Grade will be: A+ assuming it comes in on time (and I/TA can reproduce it, as necessary), B+ if it comes in late (and we can reproduce it), C+ if it never comes in (or we can't reproduce it).  Total grade will be an average over all weeks.
 - *Pweweqs*: I assume you are comfortable with all the content in https://www.coursera.org/specializations/jhu-data-science
 - *Class Schedule*: Tues & Thurs, 3-4:15 in Gilman 132
 - *Office Hours*: TT 2-3pm in Clark 317C.
 - *Organization*: Tuesdays will be lectures, thursdays will be in class group work
 - *Teamwork*: This is a *team project* based course, so pick teams, 3 people is the ideal team size for this class, ihmo
 - *Assignments*: Each week assignments will be due each Monday NLT 4:00AM Eastern.  Due means pushed to your group's repo.
-- [*Peer Evaluations*](http://goo.gl/forms/eEXctcr067): Each week along with assignments you will be submitting a peer evaluation. The peer evaluations are also due each Monday NLT 4:00AM Eastern. These evaluations enable us to scale group grades based on individual participation. Also, if you fail to submit the evaluations your grade will be affected. The evaluation form can be found in the link at the start of this bullet.
+- [*Peer Evaluations*](http://goo.gl/forms/eEXctcr067): Each week along with assignments you will be submitting a peer evaluation. The peer evaluations are also due each Monday NLT 4:00AM Eastern. These evaluations enable us to scale group grades based on individual participation. Also, if you fail to submit the evaluations on time your grade will negatively be affected. The evaluation form can be found in the link at the start of this bullet.
 - *Github*: Each team should have a *public* github repo containing everything.  In the case of private data, we can discuss various options.
 - *Background*: Comfortable coding in R/Python/Julia, github, Jupyter notebooks or MATLAB publish
 - *Video lectures*: Most *technical* content that will be required is available in these lectures: https://www.coursera.org/specializations/jhu-data-science, in general, i'll expect familiarity with that material
