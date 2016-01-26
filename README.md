@@ -12,6 +12,7 @@
 - *Github*: Each team should have a *public* github repo containing everything.  In the case of private data, we can discuss various options.
 - *Background*: Comfortable coding in R/Python/Julia, github, Jupyter notebooks or MATLAB publish
 - *Video lectures*: Most *technical* content that will be required is available in these lectures: https://www.coursera.org/specializations/jhu-data-science, in general, i'll expect familiarity with that material
+- *Projects*: A list of recommended [projects](projects.md) for the course
 
 # Class Schedule
 
