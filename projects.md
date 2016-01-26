@@ -2,8 +2,8 @@
 
 ####3D Distribution of Synapses in Cortex
 From annotated electron microscopy (EM) images we can analyze properties of neurons and organelles, including the distribution of synapses between neurons in space. Are synapses evenly distributed in the cortex? If not, what distribution are they sampled from?
-- http://www.cell.com/cell/pdf/S0092-8674(15)00824-7.pdf
 - http://www.nature.com/nature/journal/v471/n7337/abs/nature09802.html
+- http://www.ncbi.nlm.nih.gov/pubmed/25206325
 
 #### Synapse Diversity in terms of Gene Expression
 
