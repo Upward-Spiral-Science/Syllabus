@@ -4,8 +4,8 @@
 - *TA*: [Greg Kiar](mailto:gkiar07@gmail.com)
 - *Grading*: Each week each group will be responsible for handing in an updated report.  Grade will be: A assuming it comes in on time (and I/TA can reproduce it, as necessary), B if it comes in late (and we can reproduce it), C if it never comes in (or we can't reproduce it).  Total grade will be an average over all weeks.
 - *Pweweqs*: I assume you are comfortable with all the content in https://www.coursera.org/specializations/jhu-data-science
-- *Class Schedule*: Tues & Thurs, 3-4:15pm
-- *Location*: Gilman 132
+- *Class Schedule*: Tues & Thurs, 3-4:15 in Gilman 132
+- *Office Hours*: TT 2-3pm in Clark 317C.
 - *Organization*: Tuesdays will be lectures, thursdays will be in class group work
 - *Teamwork*: This is a *team project* based course, so pick teams, 3 people is the ideal team size for this class, ihmo
 - *Assignments*: Each week assignments will be due each Monday NLT 4:00AM Eastern.  Due means pushed to your group's repo.
