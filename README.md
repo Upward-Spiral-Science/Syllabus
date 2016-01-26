@@ -8,7 +8,7 @@
 - *Location*: Gilman 132
 - *Organization*: Tuesdays will be lectures, thursdays will be in class group work
 - *Teamwork*: This is a *team project* based course, so pick teams, 3 people is the ideal team size for this class, ihmo
-- *Assignments*: Each week assignments will be due NLT 3:00PM Eastern.  Due means pushed to your group's repo. 
+- *Assignments*: Each week assignments will be due each Monday NLT 4:00AM Eastern.  Due means pushed to your group's repo. 
 - *Github*: Each team should have a *public* github repo containing everything.  In the case of private data, we can discuss various options.
 - *Background*: Comfortable coding in R/Python/Julia, github, Jupyter notebooks or MATLAB publish
 - *Video lectures*: Most *technical* content that will be required is available in these lectures: https://www.coursera.org/specializations/jhu-data-science, in general, i'll expect familiarity with that material
