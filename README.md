@@ -41,6 +41,7 @@ We will cover the fundamentals of doing data science research, explaining "best 
   1. which data would yield the most clear answer to the question?
   2. what is the the minimal sample size needed to obtain sufficient "confidence"
   3. what is the least expensive way of obtaining such a dataset (eg, maybe one exists already?)
+  4. how do we know if the should trust our answers?
 4. **"exploratory" data analysis**
   5. how many feaures? what kind?
   6. how many samples? are they supposedly "independent?
