@@ -24,6 +24,9 @@
   - List of Projects
   - Pick Teams
   - Reading Assignment: Ch1 & Ch2 of ADS
+- 02/02: 
+  - informal problem statement
+  - "synthetic data analysis"
 
 # Outline
 
