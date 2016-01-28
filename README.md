@@ -1,7 +1,7 @@
 # Potentially Useful Info 
 
 - *Textbook*: https://leanpub.com/artofdatascience
-- **Slack**: https://spiralscience.slack.com/signup
+- *Slack*: https://spiralscience.slack.com/signup
 - *TA*: [Greg Kiar](mailto:gkiar07@gmail.com)
 - *Grading*: Each week each group will be responsible for handing in an updated report.  Grade will be: A+ assuming it comes in on time (and I/TA can reproduce it, as necessary), B+ if it comes in late (and we can reproduce it), C+ if it never comes in (or we can't reproduce it).  Total grade will be an average over all weeks.
 - *Pweweqs*: I assume you are comfortable with all the content in https://www.coursera.org/specializations/jhu-data-science
