@@ -30,7 +30,8 @@ Creativity can be evaluated much like IQ through a metric called the composite c
  - http://onlinelibrary.wiley.com/doi/10.1002/hbm.20874/abstract?userIsAuthenticated=false&deniedAccessCustomisedMessage=
  - http://onlinelibrary.wiley.com/doi/10.1002/jocb.45/abstract
  - http://link.springer.com/article/10.1007/s00429-013-0564-0
- - 
+ - http://elifesciences.org/content/5/e10566
+
  #### Whole Brain Structure from CLARITY
 
 We have about 12 brains all of which have been imaged using CLARITY techniques.  One can see cells and processes lit up through the brain, and there are multiple different conditions (normal, shock, addict).  The question is: are there global structural differences across the brains? This project will require a bit of computer vision to do local histogram equalization and such.
