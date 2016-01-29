@@ -30,3 +30,16 @@ Creativity can be evaluated much like IQ through a metric called the composite c
  - http://onlinelibrary.wiley.com/doi/10.1002/hbm.20874/abstract?userIsAuthenticated=false&deniedAccessCustomisedMessage=
  - http://onlinelibrary.wiley.com/doi/10.1002/jocb.45/abstract
  - http://link.springer.com/article/10.1007/s00429-013-0564-0
+ - 
+ #### Whole Brain Structure from CLARITY
+
+We have about 12 brains all of which have been imaged using CLARITY techniques.  One can see cells and processes lit up through the brain, and there are multiple different conditions (normal, shock, addict).  The question is: are there global structural differences across the brains? This project will require a bit of computer vision to do local histogram equalization and such.
+
+- http://www.nature.com/nprot/journal/v9/n7/full/nprot.2014.123.html
+- http://www.cell.com/cell/abstract/S0092-8674(15)01623-2?_returnURL=http%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867415016232%3Fshowall%3Dtrue
+- 
+
+
+#### Cell Density Maps Across the Brain
+
+Also from CLARITY data, also requiring some computer vision.  In this project, you will find cells, and estimate relative number of cells in each ROI, and then do some statistical analysis comparing different ROIs.  Same references as above.
