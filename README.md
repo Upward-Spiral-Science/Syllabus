@@ -18,15 +18,53 @@
 
 # Class Schedule
 
-- 01/28: 
+### 01/28: 
   - Welcome
   - Overview
   - List of Projects
   - Pick Teams
   - Reading Assignment: Ch1 & Ch2 of ADS
-- 02/02: 
+
+### 02/02: 
   - informal problem statement
   - "synthetic data analysis"
+- best. class. ever.
+- all i need from you: anonymous regular feedback
+- we are doing *real* research here
+- all projects should result in co-authorship on a publication
+- hopefully, some/all of you will join my lab
+
+
+#### epicycles of analysis:
+
+
+1. question
+2. collect data
+2. eda
+3. model building
+4. interpret
+5. communication
+
+#### 3 steps of alignment
+
+1. set expectations
+2. get data
+3. revise expectations
+
+#### types of questions:
+
+1. descriptive
+2. exploratory
+3. inferential
+4. predictive
+5. causal
+6. mechanistic
+
+- exploratory vs. confirmatory
+- statistics: summarize & generalize
+- supervised vs. unsupervised
+- h < c < r < d < m < causal < mechanistic
+
 
 # Outline
 
