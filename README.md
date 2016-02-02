@@ -18,9 +18,9 @@
 
 ## Links from Computational Medicine that you might find helpful
 
-- [Final Proposal Instructions](Final_Proposal_Instructions.md)
-- [Final Project Instructions](Final_Project_Instructions.md)
-- [Final Project Explanation](Final_Project_Explanation.md)
+- [Final Proposal Instructions](https://github.com/JHU-BME580-431/Statistical-Connectomics/blob/master/Final_Project_Explanation.md)
+- [Final Project Instructions](https://github.com/JHU-BME580-431/Statistical-Connectomics/blob/master/Final_Project_Instructions.md)
+- [Final Project Explanation](https://github.com/JHU-BME580-431/Statistical-Connectomics/blob/master/Final_Proposal_Instructions.md)
 
 
 # Class Schedule
