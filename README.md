@@ -16,6 +16,13 @@
 - *Video lectures*: Most *technical* content that will be required is available in these lectures: https://www.coursera.org/specializations/jhu-data-science, in general, i'll expect familiarity with that material
 - *Projects*: A list of recommended [projects](projects.md) for the course
 
+## Links from Computational Medicine that you might find helpful
+
+- [Final Proposal Instructions](Final_Proposal_Instructions.md)
+- [Final Project Instructions](Final_Project_Instructions.md)
+- [Final Project Explanation](Final_Project_Explanation.md)
+
+
 # Class Schedule
 
 ### 01/28: 
