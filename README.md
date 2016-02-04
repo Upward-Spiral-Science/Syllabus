@@ -16,6 +16,7 @@
 - *Background*: Comfortable coding in R/Python2.7/Julia, github, Jupyter notebooks or MATLAB publish
 - *Video lectures*: Most *technical* content that will be required is available in these lectures: https://www.coursera.org/specializations/jhu-data-science, in general, i'll expect familiarity with that material
 - *Projects*: A list of recommended [projects](projects.md) for the course
+- *Assignments*: Example assignments will be [here](https://github.com/Upward-Spiral-Science/grelliam#toc)
 
 ## Links from Computational Medicine that you might find helpful
 
@@ -23,6 +24,8 @@
 - [Final Project Instructions](https://github.com/JHU-BME580-431/Statistical-Connectomics/blob/master/Final_Project_Instructions.md)
 - [Final Project Explanation](https://github.com/JHU-BME580-431/Statistical-Connectomics/blob/master/Final_Proposal_Instructions.md)
 
+
+# Assignments
 
 # Class Schedule
 
