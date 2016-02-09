@@ -83,6 +83,12 @@ Also note that each week, [*Peer Evaluations*](http://goo.gl/forms/eEXctcr067) f
 - supervised vs. unsupervised
 - h < c < r < d < m < causal < mechanistic
 
+### Feb 9
+
+- bias/variance trade-off
+- clarification of questions: must be formal, must be answerable (up to causal/mechanistic).
+- answering exploratory questions, not using [vector explorer](http://vx.neurodata.io), but seeing the kinds of answers one obtains from it and doing it oneself in a jupyter notebook.
+
 
 # Outline
 
