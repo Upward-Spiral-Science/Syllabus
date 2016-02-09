@@ -17,6 +17,7 @@
 - *Video lectures*: Most *technical* content that will be required is available in these lectures: https://www.coursera.org/specializations/jhu-data-science, in general, i'll expect familiarity with that material
 - *Projects*: A list of recommended [projects](projects.md) for the course
 - *Assignments*: Example assignments will be [here](https://github.com/Upward-Spiral-Science/grelliam#toc)
+- *Attendance*: attendance at all classes is required and graded. you cannot be successful in this class if you do not attend.
 
 ## Links from Computational Medicine that you might find helpful
 
