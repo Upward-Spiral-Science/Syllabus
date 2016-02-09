@@ -27,6 +27,13 @@
 
 # Assignments
 
+always for assignments, rather than detailed descriptions, we provide detailed answers here: https://github.com/Upward-Spiral-Science/grelliam
+
+Also note that each week, [*Peer Evaluations*](http://goo.gl/forms/eEXctcr067) for your teammates are also due
+
+- 02/08: assignment 1 & 2 due
+- 2/15: assignment 3 due
+
 # Class Schedule
 
 ### 01/28: 
