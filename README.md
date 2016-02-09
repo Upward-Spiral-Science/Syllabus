@@ -27,9 +27,10 @@
 
 # Assignments
 
-always for assignments, rather than detailed descriptions, we provide detailed answers here: https://github.com/Upward-Spiral-Science/grelliam
+always for assignments, we provide detailed answers here: https://github.com/Upward-Spiral-Science/grelliam
+follow the example as closely as possible, eg, if he used a markdown file, you do, if he used a jupyter notebook, you do, etc.
 
-Also note that each week, [*Peer Evaluations*](http://goo.gl/forms/eEXctcr067) for your teammates are also due
+Also note that each week, [*Peer Evaluations*](http://goo.gl/forms/eEXctcr067) for your teammates are also due.
 
 - 02/08: assignment 1 & 2 due
 - 2/15: assignment 3 due
