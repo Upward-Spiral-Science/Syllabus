@@ -17,7 +17,7 @@
 - *Video lectures*: Most *technical* content that will be required is available in these lectures: https://www.coursera.org/specializations/jhu-data-science, in general, i'll expect familiarity with that material
 - *Projects*: A list of recommended [projects](projects.md) for the course
 - *Assignments*: Example assignments will be [here](https://github.com/Upward-Spiral-Science/grelliam#toc)
-- *Attendance*: attendance at all classes is required and graded. you cannot be successful in this class if you do not attend. We will take attendance by having all students [check-in via Yelp](http://www.yelp.com/biz/art-of-data-science-baltimore?utm_campaign=www_business_share_popup&utm_medium=copy_link&utm_source=(direct)) to the class. If you do not check-in, you do not get credit for attendance.
+- *Attendance*: attendance at all classes is required and graded. you cannot be successful in this class if you do not attend. We will take attendance by having all students [check-in via this doc](http://goo.gl/forms/r4BrNMQ1iM) to the class (write the funny word on the board). If you do not check-in, you do not get credit for attendance.
 
 ## Links from Computational Medicine that you might find helpful
 
