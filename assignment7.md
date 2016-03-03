@@ -11,7 +11,7 @@ here is what the slides should look like:
 - action
 	- (5) formal statement of problem
 	- (6) model assumptions
-  - (7) format statement of algorithm
+  	- (7) formal statement of algorithm
 	- (8) results
 	- (9) model checking
 - (10) resolution 
