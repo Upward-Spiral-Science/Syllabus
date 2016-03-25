@@ -1,0 +1,1 @@
+You are to each answer 10 questions about your data based on what you've learned up until now. Then, either in a well documented jupyter notebook or markdown file, document what you learned through figures and text. To be clear, each person does 10, and in the submitted report indicate who did each analysis.
