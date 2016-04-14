@@ -18,6 +18,7 @@
 - *Projects*: A list of recommended [projects](projects.md) for the course
 - *Assignments*: Example assignments will be [here](https://github.com/Upward-Spiral-Science/grelliam#toc)
 - *Attendance*: attendance at all classes is required and graded. you cannot be successful in this class if you do not attend. We will take attendance by having all students [check-in via this doc](http://goo.gl/forms/r4BrNMQ1iM) to the class (write the funny word on the board). If you do not check-in, you do not get credit for attendance.
+- *Organization*: We expect your repository to be organized like our[example repository](https://github.com/Upward-Spiral-Science/grelliam#toc). Please ensure this is the case or you will not be graded for your work, as we won't be able to find it.
 
 ## Links from Computational Medicine that you might find helpful
 
